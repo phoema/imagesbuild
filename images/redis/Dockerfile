@@ -1,0 +1,2 @@
+FROM redis:7.2.0
+LABEL MAINTAINER=phoema BUILDTYPE=Aliyun
