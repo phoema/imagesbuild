@@ -1,0 +1,2 @@
+FROM openjdk:8u342
+LABEL MAINTAINER=phoema BUILDTYPE=Aliyun
